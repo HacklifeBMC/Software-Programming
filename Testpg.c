@@ -1,4 +1,4 @@
-//
+//Easy Factorial program using C
 //  Testpg.c
 //  
 //
